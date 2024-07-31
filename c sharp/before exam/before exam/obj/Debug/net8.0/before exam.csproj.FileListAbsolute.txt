@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\c sharp\before exam\before exam\obj\Debug\net8.0\before exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\c sharp\before exam\before exam\obj\Debug\net8.0\before exam.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\c sharp\before exam\before exam\obj\Debug\net8.0\before exam.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\c sharp\before exam\before exam\obj\Debug\net8.0\before exam.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c sharp\before exam\before exam\bin\Debug\net8.0\before exam.exe
+C:\Users\ASUS\Desktop\c sharp\before exam\before exam\bin\Debug\net8.0\before exam.deps.json
+C:\Users\ASUS\Desktop\c sharp\before exam\before exam\bin\Debug\net8.0\before exam.runtimeconfig.json
+C:\Users\ASUS\Desktop\c sharp\before exam\before exam\bin\Debug\net8.0\before exam.dll
+C:\Users\ASUS\Desktop\c sharp\before exam\before exam\bin\Debug\net8.0\before exam.pdb
+C:\Users\ASUS\Desktop\c sharp\before exam\before exam\obj\Debug\net8.0\before exam.dll
+C:\Users\ASUS\Desktop\c sharp\before exam\before exam\obj\Debug\net8.0\refint\before exam.dll
+C:\Users\ASUS\Desktop\c sharp\before exam\before exam\obj\Debug\net8.0\before exam.pdb
+C:\Users\ASUS\Desktop\c sharp\before exam\before exam\obj\Debug\net8.0\before exam.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\c sharp\before exam\before exam\obj\Debug\net8.0\ref\before exam.dll

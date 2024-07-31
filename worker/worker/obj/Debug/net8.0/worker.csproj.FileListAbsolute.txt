@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\c_#\worker\worker\bin\Debug\net8.0\worker.exe
+C:\Users\ASUS\Desktop\c_#\worker\worker\bin\Debug\net8.0\worker.deps.json
+C:\Users\ASUS\Desktop\c_#\worker\worker\bin\Debug\net8.0\worker.runtimeconfig.json
+C:\Users\ASUS\Desktop\c_#\worker\worker\bin\Debug\net8.0\worker.dll
+C:\Users\ASUS\Desktop\c_#\worker\worker\bin\Debug\net8.0\worker.pdb
+C:\Users\ASUS\Desktop\c_#\worker\worker\obj\Debug\net8.0\worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\c_#\worker\worker\obj\Debug\net8.0\worker.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\c_#\worker\worker\obj\Debug\net8.0\worker.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\c_#\worker\worker\obj\Debug\net8.0\worker.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c_#\worker\worker\obj\Debug\net8.0\worker.dll
+C:\Users\ASUS\Desktop\c_#\worker\worker\obj\Debug\net8.0\refint\worker.dll
+C:\Users\ASUS\Desktop\c_#\worker\worker\obj\Debug\net8.0\worker.pdb
+C:\Users\ASUS\Desktop\c_#\worker\worker\obj\Debug\net8.0\worker.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\c_#\worker\worker\obj\Debug\net8.0\ref\worker.dll
